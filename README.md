@@ -22,4 +22,4 @@ Research Domain: Computational Lingusitics, Sociolinguistics, and Anthropology
 
 Data Source: I use the Corpus of Regional African American Language (CORAAL), a publicly available corpus consisting of sociolinguistic interviews with African American speakers from multiple regions across the US. Interviews were conducted over a wide span of time, from late 1960s to 2010s, with speakers born between 1888 and 2005. The corpus includes audio recordings and transcripts of naturalistic, conversational speech along with speaker-level metadata such as geographic location, age, and gender. Topics of discussion range from daily life, personal experiences, to family history. 
 
-Libraries: pandas, numPy, scikit-learn, matplotlib
+Libraries: pandas, numPy, scikit-learn, nltk, matplotlib, seaborn, graphviz, os, re
